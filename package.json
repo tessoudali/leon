@@ -96,7 +96,7 @@
     "fluent-ffmpeg": "2.1.2",
     "getos": "3.2.1",
     "googleapis": "67.1.1",
-    "ibm-watson": "6.1.1",
+    "ibm-watson": "8.0.0",
     "node-wav": "0.0.2",
     "os-name": "4.0.1",
     "pretty-bytes": "5.6.0",
