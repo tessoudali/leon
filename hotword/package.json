@@ -16,7 +16,7 @@
     "@bugsounet/snowboy": "^2.2.5",
     "@mapbox/node-pre-gyp": "^1.0.10",
     "node-record-lpcm16": "^0.3.1",
-    "socket.io-client": "^4.5.2",
+    "socket.io-client": "^4.8.0",
     "superagent": "^8.0.0"
   }
 }
