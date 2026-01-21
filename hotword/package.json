@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@bugsounet/snowboy": "^2.2.5",
-    "@mapbox/node-pre-gyp": "^1.0.10",
+    "@mapbox/node-pre-gyp": "^2.0.0",
     "node-record-lpcm16": "^0.3.1",
     "socket.io-client": "^4.5.2",
     "superagent": "^8.0.0"
